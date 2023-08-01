@@ -1,0 +1,3 @@
+source_pokeapi@git+https://github.com/airbytehq/airbyte.git@master#subdirectory=airbyte-integrations/connectors/source-pokeapi
+airbyte-embed-cdk@git+https://github.com/michel-tricot/airbed.git@master
+#-e ../../../airbed
