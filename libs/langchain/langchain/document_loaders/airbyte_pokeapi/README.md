@@ -43,15 +43,7 @@ main()
 
 ## Field notes
 
-```shell
-rm -rf .venv && virtualenv .venv && . .venv/bin/activate
-pip install -r requirements.txt
-```
-
-```shell
-# To run poc:
- PYTHONPATH=../.. python poc.py
-```
+Right now I can't get it to work because of the pydantic deps conflict.
 
 ```shell
 # Generate config object
